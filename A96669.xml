@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A winding-sheet for traytors: with a discovery of their great and dangerous conspiracies the horrid perfidiousness and treachery of divers usurping tyrants; their Judas-like actings in several countries; their judgements, and self-executions; their s[u]ddain death; the names of such who have both hang'd and drown'd themselves; and the lamentation and confession of Mr. Scot, and divers others of the wicked and cruel judges, who most barbarously and inhumanely murther'd our late gracious soveraign Lord King Charles.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96669</idno>
+            <idno type="STC">Wing W2979C</idno>
+            <idno type="STC">ESTC R231730</idno>
+            <idno type="EEBO-CITATION">99899802</idno>
+            <idno type="PROQUEST">99899802</idno>
+            <idno type="VID">137215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96669)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2450:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A winding-sheet for traytors: with a discovery of their great and dangerous conspiracies the horrid perfidiousness and treachery of divers usurping tyrants; their Judas-like actings in several countries; their judgements, and self-executions; their s[u]ddain death; the names of such who have both hang'd and drown'd themselves; and the lamentation and confession of Mr. Scot, and divers others of the wicked and cruel judges, who most barbarously and inhumanely murther'd our late gracious soveraign Lord King Charles.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Regicides --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137215:1"/>
+            <!-- PDF PAGE 91 -->
+            <pb facs="tcp:137215:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>A Winding-Sheet FOR Traytors: With a Diſcovery of their great and dangerous Con<g ref="char:EOLhyphen"/>ſpiracies; the horrid Perfidiouſneſs and Treachery of di<g ref="char:EOLhyphen"/>vers Uſurping Tyrants; their <hi>J<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>das</hi>-like Actings in ſeveral Counties; their <hi>Judgements,</hi> and <hi>Sel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Exec<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions;</hi> their <hi>ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddain Death;</hi> the Names of ſuch who have both hang'd and drown'd themſelves; And the Lamentation and Confeſſion of Mr. <hi>Scot,</hi> and divers others of the wicked and cruel Judges, who moſt barbarouſly and inhumanely murther'd our late gracious So<g ref="char:EOLhyphen"/>veraign Lord King <hi>CHARLES.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Thomas,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:137215:2"/>
+            <!-- PDF PAGE 92 -->
+            <pb n="3" facs="tcp:137215:2"/>
+            <!-- PDF PAGE 92 -->
+            <head>THE Traytors Confeſsion: Or, Strange News from the Tower of London.</head>
+            <p>
+               <seg rend="decorInit">J</seg>Uſtice having taken place within theſe <hi>Brittiſh</hi> Iſles, and a diſcovery made of the grand Traytors, who ſtruck even at the Root both of King, Parliament, Laws, and Priviledges, their Confederacy in ſinne being their onely ſecurity; give me leave in this following Narration, to preſent the <hi>Reader</hi> with a Catalogue of ſome of the Grandees, that could not be match'd in any place but where they now are, <hi>viz.</hi> in the Tower of <hi>London,</hi> where the Marqueſs of <hi>Argyle,</hi> the Earl of <hi>Antrim,</hi> Sir <hi>Arthur Ha<g ref="char:EOLhyphen"/>ſilrigg,</hi> Sir <hi>Henry Vane,</hi> Col. <hi>Axtel,</hi> Mr. <hi>Thomas Scot,</hi> who was ſent pri<g ref="char:EOLhyphen"/>ſoner out of <hi>Flanders,</hi> and Col. <hi>Hacker,</hi> one of the Gentlemen for<g ref="char:EOLhyphen"/>ſooth, that carryed a Partizan, was on the Scaffold, and comman<g ref="char:EOLhyphen"/>ded the Guards when our late gracious Soveraign was moſt in<g ref="char:EOLhyphen"/>humanely and barbarouſly murthered; for which bloody act and wicked Treaſon, he, with the reſt, are now honoured with an im<g ref="char:EOLhyphen"/>priſonment in the Tower, where they may juſtly condole and la<g ref="char:EOLhyphen"/>ment their by-paſt Enormities; and thus <hi>center</hi> with each other, in their direful <hi>Lachrymae:</hi> Oh! That the blood of that inno<g ref="char:EOLhyphen"/>cent Prince were waſhed from our Soules: Oh! the horrour and guilt of Conſcience: Let us ſurrender that which we cannot keep: Let us eaſt off our vile and polluted Vizards, and appear in our Natural Colours, every one confeſſing his Villanies, which
+<pb n="4" facs="tcp:137215:3"/>
+               <!-- PDF PAGE 93 -->we can no longer conceal: Let us turn Converts, and as we have always been Diſſemblers, ſo now out of our natural diſpoſition of diſſimulation acknowledge his Majeſty to be our Right and law<g ref="char:EOLhyphen"/>ful Sovereign, (for we cannot help it) that we were the unjuſt and bloody Murtherers of his moſt Royal Father; that in all our Actions we ſought our own profit, and not the publick good; that our endeavours tended to the advance of our own private Inte<g ref="char:EOLhyphen"/>reſt and Eſtates, and not the benefit of the Truſt impoſed upon Us; That we were plunderers both of Church and State, never thinking that the day of Accompt would come; That we made Religion and the glory of God the Cloak for all our Villany, Rapines and Murthers; That we did intend if our Deſigns had been fixed firm, to have made our ſelves perpetual Dictators and State-Robbers.</p>
+            <p>But ſince their hopes are fruſtrate, and that ſeemingly here is pointed out ſuch an inrolled Confeſſion; be pleaſed, in the next place, to take a Review of the juſt Confeſſion of ſome of the un<g ref="char:EOLhyphen"/>juſt Judges, in theſe words:</p>
+            <lg>
+               <l>O<g ref="char:V">Ʋ</g>r King we murdered, yet the Work's not done,</l>
+               <l>For then on <hi>Holland, Capel, Hambelton</hi>
+               </l>
+               <l>Our pauſe we laid, by <g ref="char:V">Ʋ</g>s was <hi>Derby's</hi> loſs,</l>
+               <l>As by the <hi>Scotch Kirk</hi> that noble Earl <hi>Montroſs:</hi>
+               </l>
+               <l>We <hi>Gerrard</hi> kill'd, and valiant <hi>Brown-Buſhel,</hi>
+               </l>
+               <l>Sir <hi>Alexander Cary,</hi> and Mr. <hi>Vowel,</hi>
+               </l>
+               <l>
+                  <hi>Aſton, Stacy,</hi> and <hi>Hewet,</hi> who doth lye</l>
+               <l>A martyred Saint, with noble <hi>Slingsby:</hi>
+               </l>
+               <l>Beſides, to aggravate our ſins above</l>
+               <l>The thoughts of Man, we murthered Mr. <hi>Love;</hi>
+               </l>
+               <l>With many more, we took no pitty,</l>
+               <l>Drawn hang'd and quarter'd in fair <hi>London's</hi> City.</l>
+               <l>There's none of us but do deſerve to dye,</l>
+               <l>Who for theſe cruel Evils new in priſon lye,</l>
+               <l>Where we had better be, our lives to ſave,</l>
+               <l>Then (as deſerved) the Gallow Tree to have.</l>
+               <l>Our Brother <hi>Barkſtead,</hi> once a man of power,</l>
+               <l>Is fled whilſt we have taken <hi>London's</hi> Tower.</l>
+               <l>Like <hi>Hector</hi> bold, we did preſume to kill</l>
+               <l>Our King, though it be ſore againſt our will</l>
+               <l>
+                  <pb n="5" facs="tcp:137215:3"/>
+                  <!-- PDF PAGE 93 -->
+To anſwer that pretended good <hi>Old Cauſe,</hi>
+               </l>
+               <l>By which we rob'd poor <hi>England</hi> of juſt Laws</l>
+               <l>Which would condemn us all, had we our due</l>
+               <l>To be drawn hang'd and then quartered too.</l>
+            </lg>
+            <p>Theſe were the King-killing Baſilisks, and weeping Crocodiles, who not onely murthered their lawful Prince, but baniſhed His Royal Conſort the Queen, and cauſed the Off-Spring and Royal Iſſue for many years to ſuffer Exilement: Nay more, they deſtroy<g ref="char:EOLhyphen"/>ed and impriſoned all the Kings Friends, and made it Treaſon for to name the King, or once to mention him. Nay more then that, they unjuſtly ſeized on all his Majeſties Lands, and gave or ſold them one to another, felling his Timber, deſtroying his Deer, demoliſhing his Caſtles and ſtately Palaces, poling and oppreſſing his Subjects, and what not. But they are now like to deliver up their unjuſt gotten Lands and Goods to the right Owners. The antient Palace of <hi>Old-Court</hi> is to be delivered up by Mr. <hi>Edwards,</hi> which he purchaſed for a ſmall ſum. And Gaffer <hi>Obey</hi> muſt now forſake his Mannor of <hi>Ampthill,</hi> and his Mannor of <hi>Mill-brook,</hi> and betake himſelf to the old Road. The like muſt Goodman <hi>Wha<g ref="char:EOLhyphen"/>ley,</hi> for his two Mannors of <hi>Weſt-Walton,</hi> and <hi>Trington; Lightly come, lightly go, he purchas'd them at a very eaſie rate.</hi>
+            </p>
+            <p>Theſe are the arbitrary Youths that liv'd upon the ſweat of other mens brows; and theſe are the Canicals that for many years joyned with the bloody Tyrant and Uſurper; witneſs his inſatiable proceedings againſt the Weſtern Gentlemen, who upon their Ri<g ref="char:EOLhyphen"/>ſing for the King in the year 1655. he not onely proceeds againſt Col. <hi>Penruddock,</hi> and divers other Gentlemen, by capital puniſh<g ref="char:EOLhyphen"/>ment; but he decimates all the Cavaliers or Gentlemen of the late Kings party, that had been in Arms for him, all over <hi>England;</hi> that is, he enjoyns them to pay yearly the tenth part of their whole Revenue, notwithſtanding their former Compoſitions made for their Eſtates, and their Pardons ſued out as the Parlia<g ref="char:EOLhyphen"/>ment had enjoyned. And this Decimation was put in execution by the Major Generals of every County: In which Government, <hi>Cromwel</hi> much reſembled the <hi>Turk;</hi> himſelf like the <hi>Grand Signi<g ref="char:EOLhyphen"/>or,</hi> ruling by ſole Command, had his ſtanding Army (as a Guard for his Perſon) anſwerable to the <hi>Janizaries;</hi> and his Major Ge<g ref="char:EOLhyphen"/>nerals repreſenting the Baſhaws in their ſeveral Provinces.</p>
+            <p>
+               <pb n="6" facs="tcp:137215:4"/>
+               <!-- PDF PAGE 94 -->
+Theſe are the State-Juglers, that could at pleaſure impoſe new Oaths, and ſet up their <hi>Dag<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> or <hi>Weſtminſterian</hi> Engagement, in oppoſition to his Majeſties Regal Government, and ſo deceitfully to glory and triumph in their pretended Providences and Suc<g ref="char:EOLhyphen"/>ceſſes, ever ſince that fatal blow given to our late gracious Lord and Soveraign: But mark the apparent Demonſtrations of Gods evident and eminent wrath and indignation againſt the Subſcri<g ref="char:EOLhyphen"/>bers of the ſaid Engagement, and Complices with the late <hi>Jun<g ref="char:EOLhyphen"/>toe, viz.</hi> One Mr. <hi>Bray</hi> a <hi>Presbyterian</hi> Miniſter, for the gaining of an Augmentation to his Living at <hi>Michaels</hi> in <hi>Lancaſhire,</hi> took the Engagement, turned a great Zealot for the Independent Faction, and immediately after, an O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der coming for pulling down of the late Kings Arms in Churches, he was ſo not therein, that he would needs (as he did) pull them down himſelf, and ſent the boards on which the Kings Arms were painted, home to his houſ, intending to have made a door of them, to one o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Rooms of his Houſe; but it pleaſed the Lord preſently to ſtrike him with a ſuddain and violent ſickneſs, whereof he preſently dyed, and thoſe boards were made his Coffin to bury him in.</p>
+            <p>One <hi>Brown</hi> a <hi>Scottiſh-man,</hi> with other of his Countrey-men, ha<g ref="char:EOLhyphen"/>ving betrayed his Majeſty in ſeveral weighty buſineſſes of great importance; and being extreamly oppreſſed with horrour and guilt, fell mad, and ſo dyed deſperately: but <hi>Brown,</hi> the grand Impoſtor, going to <hi>Fern</hi> Iſland in the North Seas, within a League or two of the Holy-Iſland, wrapt himſelf in a White Sheet, and tumbled himſelf down from the Top of a Rock into the Main Ocean. Such was the horrid perfidy of the Treachery <hi>Scot,</hi> that in ſtead of the expected Safety of his Majeſties Perſon, <hi>J<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>das</hi>-like for Money, <hi>(though a far greater Sum)</hi> ſold and delivered their So<g ref="char:EOLhyphen"/>veraign LORD and KING, into the hands of his <hi>Engliſh</hi> Rebels, who by this means had under God a power to re-ſettle the Kingdoms peace: But they were blinded to their own de<g ref="char:EOLhyphen"/>ſtruction; and having taken the Lords Anointed in their pits, they now uſed him as they liſted, carryed him whither they pleaſed, and indeed treated him no otherwiſe then as their priſo<g ref="char:EOLhyphen"/>ner; for with a ſtrong Guard of Horſe and Foot in the moneth of <hi>February,</hi> 1646. the depth of Winter, they removed him from <hi>Newca<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le</hi> to <hi>Holmby.</hi>
+            </p>
+            <p>Long had not his Sacred Majeſty continued there, but He was by a part of the Army under one <hi>Joyce</hi> a Taylor, violently taken
+<pb n="7" facs="tcp:137215:4"/>
+               <!-- PDF PAGE 94 -->from thence, and brought to his Honour of <hi>Hampton-Court,</hi> where for a while he began to reaſſume his Priſtine Majeſty, being ad<g ref="char:EOLhyphen"/>mitted to ſee and to be ſeen; but <hi>Cromwel</hi> fearing the frequency of ſo great reſort might ſpoil his grand Plot and Trayterous De<g ref="char:EOLhyphen"/>ſigns, with much Serpentine Craft and Deviliſh Subtilty, per<g ref="char:EOLhyphen"/>ſwaded and inſinuated into his Majeſties heart doubts and ſuſpi<g ref="char:EOLhyphen"/>tions of miſchief intended againſt him; the onely way for pre<g ref="char:EOLhyphen"/>venting whereof, he affirmed to be the withdrawing his Perſon from thence, to a place of more ſtrength and ſecurity, and to that purpoſe nominated the Iſle of <hi>Wight,</hi> to which place his Majeſty led by the Innocency of his ſpotleſs Conſcience, was decoyed, and at his arrival found himſelf over-reached; for he was imme<g ref="char:EOLhyphen"/>diatly ſecured by Col <hi>Hammond,</hi> who then was Governour in the ſaid Iſland, and kept a long time priſoner there in the Caſtle of <hi>Carisbrook;</hi> to the unſpeakable grief of his Majeſty, and all true Subjects.</p>
+            <p>One Sir <hi>Thomas Martin</hi> Knight of <hi>Cambridgeſhire,</hi> an Engager and great Complier with the Times, having been a Hunting in <hi>Holm<g ref="char:EOLhyphen"/>by-Park,</hi> and the <hi>Deer</hi> being faln, ſtuck and opened, and he de<g ref="char:EOLhyphen"/>ſired (together with the other Gentlemen) to waſh his hands in the <hi>Deers</hi> blood; No <hi>(ſaid he)</hi> I had rather waſh my hands in the <hi>blood of the young King of Scots:</hi> Immediately after this, riding home the ſame day at evening, his Horſe very ſuddenly and vi<g ref="char:EOLhyphen"/>olently threw him, in which fall, he pitched on his Head, mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tally break his Skill and Shoulder, of which wounds he ve<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhortly after died.</p>
+            <p>Doctor <hi>Doriſlaus,</hi> the <hi>Weſtminſterians</hi> Junctoes-firſt-Ambaſſado<g ref="char:EOLhyphen"/>ſent from them into <hi>Holland,</hi> and therefore no doubt a great En<g ref="char:EOLhyphen"/>gager and deſperate Complier in all things with them, as in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kings Death; this <hi>Doriſlaus</hi> being arrived in <hi>Holland,</hi> was imme<g ref="char:EOLhyphen"/>diately and ſuddenly aſſaulted and ſlain as he ſate at Dinner in his own houſe.</p>
+            <p>Mr. <hi>Thomas Hoyle,</hi> formerly looked upon as a very pious and ſtrictly Religious Gentleman, an Alderman of <hi>York</hi> and Member of Parliament; but having taken the <hi>Engagement,</hi> even againſt his Conſcience, turned a great Complyer with them at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter:</hi> Not long after, it pleaſed the <hi>Lord</hi> ſo to leave him to him<g ref="char:EOLhyphen"/>ſelf, that on the very ſame day 12 moneth that King <hi>Charles</hi> was Beheaded; yea as near as poſſibly could <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e judged about the ve<g ref="char:EOLhyphen"/>ry ſame hour of that day, this Gentleman hanged himſelf at his
+<pb n="8" facs="tcp:137215:5"/>
+               <!-- PDF PAGE 95 -->own houſe in <hi>Weſtminſter,</hi> and was found dead by his Wife when ſhe came home, who had been abroad that morning.</p>
+            <p>Mr. <hi>Shereman</hi> a Citizen and Silkman in <hi>Pater-N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter-Row</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> who had formerly been looked upon as a Godly and Religi<g ref="char:EOLhyphen"/>ous man, had been a Tryer and an Elder in the <hi>Presbyterian-Church-Government,</hi> a very good friend to Mr. <hi>Love,</hi> then his Pa<g ref="char:EOLhyphen"/>ſtour; but afterwards he turning with the Times, took the <hi>En<g ref="char:EOLhyphen"/>gagement,</hi> and that in form of an <hi>Oath,</hi> whereupon he was made a <hi>Common-Council-man,</hi> turned a deſperate enemy and hater of the ſaid Mr. <hi>Love,</hi> who ſhortly after being in the Shop with his W<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe, as well as e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er in his li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, yet in the Evening ſtanding at his Coun<g ref="char:EOLhyphen"/>ter in his Shop, and his Wife cloſe by him, he ſuddenly fell down dead by her, and ſpake one word.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto this I ſhall onely add this Q<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry, viz.</hi> Whether thoſe perſons that are living, that took upon themſelves the Name, Stile, and Title of <hi>The Parliament of England, Scotland,</hi> and <hi>Ireland,</hi> (though bp their Writs by which they ſate, they were but the <hi>fragments of the Parliament o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> England onely</hi>) Beheaded their Lawful Prote<g ref="char:EOLhyphen"/>ſtant King, Baniſhed his Poſterity, overturning our antient Go<g ref="char:EOLhyphen"/>vernment it <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, conſiſting of <hi>King, Lords,</hi> and <hi>Commons,</hi> which conſtitution continued many hundreds of years, and was the beſt and fitteſt fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Nations that could be, and brought the Na<g ref="char:EOLhyphen"/>tion into ſuch a Labyrinth and Confuſion, by endea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ouring to ſet up a <hi>
+                  <g ref="char:V">Ʋ</g>topian Commonwealth,</hi> a mere Ne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing? Whether the orerſons may not juſtly fear <hi>They may all down Q<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k into He<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, or fall into the ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me Exemplary T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrors, Judgements, and Self-Executions with Others,</hi> i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they repent not for their Abominations.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137215:5"/>
+            <!-- PDF PAGE 95 -->
+            <pb facs="tcp:137215:6"/>
+            <!-- PDF PAGE 96 -->
+            <pb facs="tcp:137215:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 96 -->
+         </div>
+      </body>
+   </text>
+</TEI>
